@@ -1,0 +1,2 @@
+Hello!
+My name is Umair Shahzad and I’m a passionate React Native developer with a knack for building engaging and efficient mobile applications. Leveraging the powerful capabilities of React Native, I specialize in creating cross-platform apps that provide seamless user experiences on both Android and iOS devices. My approach combines a deep understanding of modern JavaScript, keen attention to detail, and a commitment to delivering high-quality, scalable solutions.
