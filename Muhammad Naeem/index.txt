@@ -7,3 +7,5 @@ Databases:
 Mongodb
 Mysql
 SQL
+firebase
+postgresql
