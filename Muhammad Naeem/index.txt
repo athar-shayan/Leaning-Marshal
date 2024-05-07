@@ -1,3 +1,11 @@
 My name is Developer Muhamamd Naeem. 
 And this my Learning Marshal activity task.
 I am currently working at Shayan Solution.
+I am working in Javascript, react js
+For mobile develoment I am using react native
+Databases:
+Mongodb
+Mysql
+SQL
+firebase
+postgresql
