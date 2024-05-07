@@ -4,3 +4,5 @@ My venture into software engineering commenced with the pursuit of a Bachelor's 
 When not immersed in coding challenges, i finds solace in sports like basketball, cricket and hiking, vitalizing my work-life equilibrium.
 Beyond physical activities, i nurtures habits such as reading and meditation, fortifying my productivity and holistic wellness.
 My proficiency extends to the realm of mobile application development, where he demonstrates prowess in crafting solutions across native Android and React Native platforms.
+
+New statement to demonstrates the cherry-picking
