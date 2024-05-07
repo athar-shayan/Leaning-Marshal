@@ -3,4 +3,6 @@ I am MERN stack developer
 "I love codiing but it is as an artist that i love it"
 THis is is the first commit
 THis is is the second commit
+THis is is the Third commit
+
 
