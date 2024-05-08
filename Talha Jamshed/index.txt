@@ -1,3 +1,3 @@
 My name is Muhammad Talha Jamshed.
 I am Senior web Developer.
-My Expertise are React Native, React JS, Vue JS.
+My Expertise are React Native, React JS, Vue JS and node js.
