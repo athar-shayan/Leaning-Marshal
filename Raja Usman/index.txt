@@ -1,3 +1,4 @@
 Hi! My name is Mr. Raja Usman.
 I am a software engineer and worked in the Shayan Solution as a MERN stack developer.
 git-reflog
+git log --oneline
